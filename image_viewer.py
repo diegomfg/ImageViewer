@@ -144,7 +144,7 @@ class ImageViewer:
         # Welcome text
         self.canvas.create_text(
             450, 350,
-            text="Drop an image here or click 'Open' to start",
+            text="Click 'Open' to start",
             fill='#888888',
             font=('Segoe UI', 14),
             tags='welcome'
