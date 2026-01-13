@@ -4,6 +4,8 @@
 
 A lightweight image viewer for Windows built with Python and Tkinter.
 
+![Screenshot](Screenshot.png)
+
 ## Features
 
 - View images (JPG, JPEG, PNG, WebP, GIF)
