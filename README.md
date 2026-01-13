@@ -1,5 +1,7 @@
 # Image Viewer
 
+> This is my first project with Claude Code. No lines of code were manually written.
+
 A lightweight image viewer for Windows built with Python and Tkinter.
 
 ## Features
